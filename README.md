@@ -1,19 +1,74 @@
-<h1 align="center">Hi 👋, I'm Rohit Kharwar</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+# Your Name
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit27698&label=Profile%20views&color=0e75b6&style=flat" alt="rohit27698" /> </p>
-- 🌱 I’m currently learning **Full Stack Developer**
+![Profile Picture](https://github.com/your-username.png) <!-- Replace `your-username` with your GitHub username -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohit-kumar-034909242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-kumar-034909242" height="30" width="40" /></a>
-</p>
+## About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+I am a software developer passionate about creating innovative solutions. My areas of expertise include web development, data analysis, and machine learning.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit27698&show_icons=true&locale=en&layout=compact" alt="rohit27698" /></p>
+## Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit27698&show_icons=true&locale=en" alt="rohit27698" /></p>
+- Programming languages: Python, JavaScript, Java
+- Frameworks and libraries: React, Django, Flask, Node.js
+- Databases: MySQL, PostgreSQL, MongoDB
+- Version control: Git, GitHub
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit27698&" alt="rohit27698" /></p>
+## Pinned Projects
+
+- [Project 1](https://github.com/your-username/project-1)
+  - Description: Briefly describe your project.
+  - Technologies used: List the technologies used in this project.
+
+- [Project 2](https://github.com/your-username/project-2)
+  - Description: Briefly describe your project.
+  - Technologies used: List the technologies used in this project.
+
+- [Project 3](https://github.com/your-username/project-3)
+  - Description: Briefly describe your project.
+  - Technologies used: List the technologies used in this project.
+
+## Projects
+
+### Project 1
+
+- Description: Briefly describe your project.
+- Technologies used: List the technologies used in this project.
+- GitHub repository: Provide a link to your project's GitHub repository.
+
+### Project 2
+
+- Description: Briefly describe your project.
+- Technologies used: List the technologies used in this project.
+- GitHub repository: Provide a link to your project's GitHub repository.
+
+## Experience
+
+### Company A
+
+- Role: Software Developer
+- Duration: January 2020 - Present
+- Responsibilities:
+  - Describe your responsibilities and achievements in this role.
+
+### Company B
+
+- Role: Intern
+- Duration: June 2019 - December 2019
+- Responsibilities:
+  - Describe your responsibilities and achievements in this role.
+
+## Education
+
+- Degree: Bachelor of Science in Computer Science
+- University: Your University
+- Year: 2019
+
+## Contact
+
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+
+## Additional Information
+
+Include any additional information or interests you want to highlight.
