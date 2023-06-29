@@ -46,7 +46,7 @@
 
 <img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=rohit27698&theme=neon&border_radius=2.7&show_icons=true" alt="thisiskmv" />
   
-<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit27698 &theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D" alt="thisiskmv" />
+<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit27698 &theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D" alt="rohit27698" />
   
 <img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit27698&theme=neon&border_radius=2.7" alt="thisiskmv" />
   
