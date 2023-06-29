@@ -5,17 +5,14 @@
 </p>
 <p align="center">Solution-focused and detail-oriented aspiring full-stack developer. Capable of writing production-ready code using React, Redux, and CSS on the frontend, Node.js and Express.js on the backend to build single-page applications. Passionate about coding and strongly interested in working in a fast-paced environment.</p>
 
-- 🔭 I’m currently working on **My Personal Development**
 
 - 🌱 I’m currently learning **React.js node.js and Database**
 
-- 👨‍💻 All of my projects are available at [https://rohit27698.github.io/](https://rohit27698.github.io/)
+- 👨‍💻 All of my projects are available at - https://rohit27698.github.io/
 
 - 💬 Ask me about **React.js Node.js HTML CSS JavaScript & JAVA**
 
 - 📫 How to reach me **rohitkumar27698@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tqO6N7mu2UwSY8CxzUEoCThGq8uA49Fv/view](https://drive.google.com/file/d/1tqO6N7mu2UwSY8CxzUEoCThGq8uA49Fv/view)
 
 ## 🏆 Trophies :
 <br/>
@@ -61,16 +58,16 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/bharat-shaw-4b5b76274/" target="blank">
             <img align="center"
                 src="https://img.icons8.com/3d-fluency/94/linkedin.png"
-                alt="https://www.linkedin.com/in/kamal-verma-b89a2925a/" width="40px" />
+                alt="https://www.linkedin.com/in/rohit-kumar-034909242" width="40px" />
         </a>
-        <a href="https://github.com/Bharat-Shaw" target="blank">
+        <a href="https://github.com/rohit27698" target="blank">
             <img align="center"
                 src="https://img.icons8.com/3d-fluency/94/github.png"
                 alt="https://github.com/rohit27698" width="40px"/>
         </a>
     </p>
     <h2>❤ Views and Followers :</h2>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Bharat-Shaw/github-profile-views-counter">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/rohit27698/github-profile-views-counter">
         <img src="https://komarev.com/ghpvc/?username=rohit27698" >
     </a>
     <a href="https://github.com/Bharat-Shaw?tab=followers">
