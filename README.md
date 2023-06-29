@@ -1,6 +1,6 @@
 # Your Name
 
-![Profile Picture](https://github.com/your-username.png) <!-- Replace `your-username` with your GitHub username -->
+![Profile Picture]([https://github.com/your-username.png](https://rohit27698.github.io/edited.png)) <!-- Replace `your-username` with your GitHub username -->
 
 ## About Me
 
