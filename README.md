@@ -9,15 +9,15 @@
 
 - 💬 Ask me about **react,HTML,CSS, and javascript**
 
-- 📫 How to reach me **anidubey7896@gmail.com**
+- 📫 How to reach me **rohitkumar27699@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fX15c-0zKqy45NzC_0Afmjiw7c8s9Cax/view?usp=sharing](https://drive.google.com/file/d/1fX15c-0zKqy45NzC_0Afmjiw7c8s9Cax/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1jOuzpWdZ-N0UF9CWiThh3UkIaVogiHBR/view?usp=sharing
 
 - ⚡ Fun fact **I love to draw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/aniket-dubey-2a6180242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket dubey" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/rohit-kumar-034909242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket dubey" height="30" width="40" /></a>
 <a href="https://codesandbox.com/rohit27698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="rohit27698" height="30" width="40" /></a>
 </p>
 
